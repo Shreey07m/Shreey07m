@@ -24,7 +24,9 @@ Passionate about building secure, scalable, and automated cloud-native solutions
 
 ## 📊 GitHub Stats
 ![Shreeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreey07m&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreey07m&layout=compact&theme=radical)
+
 
 ---
 
