@@ -17,10 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shreey07m&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Shreey07m?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Shreey07m?affiliations=OWNER&style=for-the-badge&color=F9A03C&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-6C5CE7?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Cloud"/>
   <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20IaC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps"/>
 </p>
 
@@ -36,106 +35,90 @@
 
 ## 🧭 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/OhIcarus/OhIcarus/main/assets/coder.gif" alt="coding gif" />
-
-- 🚀 **Cloud & DevOps Engineer** passionate about turning fragile, manual deployments into resilient, automated systems.
-- 🏗️ I live at the intersection of **Infrastructure as Code**, **CI/CD**, and **Platform Engineering**.
-- 🔐 Strong advocate for **DevSecOps** — shifting security left with SAST/DAST, image scanning, and policy-as-code.
-- ☁️ Building **cloud-native**, highly-available architectures on **AWS**, with hands-on exposure to **Azure** and **GCP**.
-- 🧩 Constantly refining developer experience through **GitOps** and self-service platforms.
-- 🌱 Lifelong learner — currently deep in **Kubernetes internals** and **AI-assisted DevOps workflows**.
-- 🧠 I enjoy debugging gnarly production issues almost as much as preventing them in the first place.
+- 🚀 **Cloud & DevOps Engineer** at **Arthan Finance Pvt. Ltd.**, with 1 year of production experience automating CI/CD and AWS infrastructure.
+- 🏗️ Architected enterprise-grade **GitLab CI/CD pipelines** for Tomcat, Dockerized, and microservice apps across Dev, UAT, and Production — cutting deployment time by **~40%**.
+- 🔭 Built a centralized **observability platform** (Prometheus, Grafana, Loki, Alertmanager, CloudWatch) that reduced **MTTD from ~15 minutes to under 3 minutes**.
+- 🔐 Design secure AWS infrastructure — VPC, IAM, Security Groups, ALB, Nginx blue-green deployments — enabling **zero-downtime releases** with automated rollback.
+- ☁️ Hands-on with **AWS (EC2, ECS, EKS, S3, RDS, Lambda, API Gateway, DynamoDB, CloudWatch)**, Docker, Kubernetes, and Terraform.
+- 🎓 B.Tech in Computer Science Engineering, CGPA 9.35/10 — Maharashtra Institute of Technology, Chh. Sambhajinagar.
 - 🏆 Team Lead & Grand Finalist, **Smart India Hackathon 2024**.
-
-<br clear="right"/>
+- 📍 Based in Maharashtra, India.
 
 ---
 
 ## 🧰 Tech Stack
+<sub>Skills as listed on my resume</sub>
 
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
 
-**☁️ Cloud Platforms**
+**☁️ Cloud & Infrastructure (AWS)**
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/ECS-232F3E?style=flat-square&logo=amazonecs&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazonrds&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazoniam&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazoncloudwatch&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/API%20Gateway-232F3E?style=flat-square&logo=amazonapigateway&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/DynamoDB-232F3E?style=flat-square&logo=amazondynamodb&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/ALB%20%2F%20Auto%20Scaling-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
 **🏗️ Infrastructure as Code**
 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
-**📦 Containers**
+**📦 Containerization & Orchestration**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
-
-**🎛️ Container Orchestration**
-
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 
-**🔄 CI/CD**
+**🔄 CI/CD & Automation**
 
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-
-**🔁 GitOps**
-
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
 
-**📊 Monitoring**
+**📊 Monitoring & Observability**
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-
-**📜 Logging**
-
 <img src="https://img.shields.io/badge/Loki-000000?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazoncloudwatch&logoColor=FF9900" />
 
-**🔒 Security & DevSecOps**
+**🔒 Security (DevSecOps)**
 
-<img src="https://img.shields.io/badge/Trivy-0A0A0A?style=flat-square&logo=aqua&logoColor=white" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+<img src="https://img.shields.io/badge/Trivy-0A0A0A?style=flat-square&logo=aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM%20Least--Privilege-232F3E?style=flat-square&logo=amazoniam&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Security%20Groups-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
-**💻 Programming**
+**💻 Programming & Scripting**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
-**🖥️ Operating Systems**
+**🖥️ Operating Systems & Tools**
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-
-**🌐 Networking**
-
-<img src="https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-
-**🗄️ Databases & Messaging**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-
-**🔧 Version Control**
-
+<img src="https://img.shields.io/badge/Amazon%20Linux%202-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnu-privacy-guard&logoColor=white" />
 
 </td>
 </tr>
@@ -169,30 +152,30 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Automated DevSecOps CI/CD Pipeline
-End-to-end GitLab CI/CD pipeline with containerized delivery to AWS EKS, integrated security scanning, and full observability.
+### 🔐 Automated DevOps CI/CD Pipeline (GitLab + AWS EKS)
+End-to-end CI/CD pipeline automating build, test, Docker image push to AWS ECR, and deployment to AWS EKS on every commit.
 
-**Stack:** GitLab CI · Docker · AWS EKS · Trivy · SonarQube
+**Stack:** GitLab CI/CD · Docker · AWS ECR/EKS · Kubernetes · Prometheus · Grafana · Python
 
 **Highlights**
-- Automated build → scan → deploy stages
-- Shift-left security with Trivy & SonarQube gates
-- Integrated monitoring/alerting on deploy
+- Multi-stage Docker builds for a containerized Flask app, deployed via Kubernetes Deployment/Service manifests
+- Branch-based staging/production strategy with rollback & health checks for zero-downtime releases
+- Prometheus + Grafana dashboards for pod/node/cluster metrics; resolved live `ImagePullBackOff` and networking issues
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/devsecops-pipeline)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/Automated-DevOps-Pipeline-using-GitLab-CI-CD-and-Kubernetes)
 
 </td>
 <td width="50%" valign="top">
 
-### ☸️ AWS EKS Cluster Automation (Terraform)
-Modular, production-ready Infrastructure as Code for provisioning highly available Kubernetes clusters on AWS.
+### ☸️ AWS EKS Cluster Automation using Terraform
+Production-ready Amazon EKS cluster provisioned entirely with modular Terraform Infrastructure as Code.
 
-**Stack:** Terraform · AWS EKS · IAM · VPC
+**Stack:** Terraform · AWS EKS · VPC · IAM · EC2 · Kubernetes · AWS CLI
 
 **Highlights**
-- Fully modular Terraform architecture
-- HA networking with managed node groups
-- Automated Kubernetes app deployment
+- Modular IaC for VPC, IAM, networking, and EKS Managed Node Groups
+- HA network design — public/private subnets, IGW, NAT Gateway across multiple AZs
+- Reusable, standardized modules with consistent resource tagging
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/AWS-EKS-Cluster-Automation-using-Terraform)
 
@@ -201,32 +184,22 @@ Modular, production-ready Infrastructure as Code for provisioning highly availab
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Monitoring Stack — Prometheus + Grafana
-Centralized observability platform with real-time dashboards and proactive alerting.
+### 🖼️ Image Quality Assessment (Machine Learning)
+ML solution using ResNet-50 with transfer learning to identify and recommend the best-quality image among similar/near-duplicate images, optimizing digital storage.
 
-**Stack:** Prometheus · Grafana · Loki
+**Stack:** Python · ResNet-50 · Transfer Learning
 
-**Highlights**
-- Custom dashboards for infra & app metrics
-- Alert rules tuned for incident response
-- Log aggregation with Loki
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/monitoring-stack)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/Image-Quality-Assessment)
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ Image Quality Assessment (ML)
-Deep learning solution using ResNet-50 transfer learning to identify and recommend the best-quality images among near-duplicates.
+### 🏛️ 3-Tier Architecture on AWS
+AWS 3-Tier web architecture implementation separating presentation, application, and data layers.
 
-**Stack:** Python · PyTorch · ResNet-50
+**Stack:** AWS · JavaScript
 
-**Highlights**
-- Optimizes digital storage automatically
-- Transfer learning on ResNet-50
-- Similarity-based image ranking
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/Image-Quality-Assessment)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreey07m/3-Tier-Architecture-)
 
 </td>
 </tr>
@@ -234,25 +207,22 @@ Deep learning solution using ResNet-50 transfer learning to identify and recomme
 
 ---
 
-## 🧗 Professional Timeline
+## 🧗 Professional Experience
 
-```text
-2024 ──┬── 🏗️  Building AWS EKS infrastructure with modular Terraform IaC
-       │
-2024 ──┼── 🔁  Designed GitLab CI/CD pipelines w/ Trivy + SonarQube gates
-       │
-2024 ──┼── 🏆  Team Lead & Grand Finalist — Smart India Hackathon
-       │
-2026 ──┴── ☁️  AWS Certified Cloud Practitioner
-```
+### ☁️ Cloud & DevOps Engineer — Arthan Finance Pvt. Ltd. | *Aug 2025 – Present*
+`GitLab CI/CD` `Docker` `AWS EC2/ECS` `Terraform` `CloudWatch` `Prometheus` `Grafana` `Loki` `Alertmanager` `Nginx` `Linux` `Shell Scripting`
 
-**Core responsibilities & impact**
-- Automating infrastructure provisioning end-to-end with Terraform, cutting manual setup time.
-- Building secure, observable CI/CD pipelines from commit to production.
-- Embedding security scanning (SAST, container scanning) directly into delivery pipelines.
-- Leading cross-functional teams under pressure to ship working products fast (hackathons).
+- Architected enterprise-grade GitLab CI/CD pipelines for Tomcat, Dockerized, and microservice applications across Development, UAT, and Production, **reducing deployment time by ~40%**.
+- Managed production deployments for **10+ applications** on AWS, troubleshooting Linux, Docker, networking, and GitLab Runner issues to improve deployment reliability.
+- Built a centralized observability platform using Prometheus, Grafana, Loki, Alertmanager, and AWS CloudWatch, **reducing MTTD from ~15 minutes to under 3 minutes**.
+- Designed secure AWS infrastructure with VPC, IAM, Security Groups, ALB, and Nginx-based blue-green deployments, enabling zero-downtime releases and automated rollback.
 
-**Technologies used:** AWS · Terraform · Kubernetes · Docker · GitLab CI · Prometheus · Grafana · Trivy · SonarQube
+### 🧪 R&D Intern — EduDiagno Pvt. Ltd. | *Dec 2024 – Jun 2025*
+`Python` `Machine Learning` `React.js` `AWS EC2` `S3` `Tailwind CSS`
+
+- Developed and deployed a production-grade Job Portal using React.js, Tailwind CSS, and AWS, serving **1,000+ users** with a responsive, cross-browser compatible interface.
+- Built an ML-based Job Recommendation Engine using Python and Collaborative Filtering, **improving job-match relevance by ~30%**.
+- Deployed the application on AWS using EC2 and S3, performing end-to-end functional and regression testing.
 
 ---
 
@@ -272,31 +242,8 @@ Deep learning solution using ResNet-50 transfer learning to identify and recomme
 
 ## 🏆 Achievements
 
-- 🥇 **Team Lead & Grand Finalist** — Smart India Hackathon 2024
-- 🥈 **Silver Medalist** — B.Tech CSE, MIT Chh. Sambhajinagar
-- 🌟 Active contributor to personal open-source infrastructure & ML projects
-
----
-
-## 🌱 Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes%20Internals-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform%20Engineering-6C5CE7?style=for-the-badge&logo=backstage&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps%20%2F%20ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-FF4B4B?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20for%20DevOps-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
-
-## ✍️ Blog & Articles
-
-> _New write-ups on Terraform patterns, EKS troubleshooting, and DevSecOps pipelines — coming soon._
-
-<!--BLOG-POST-LIST:START-->
-- 📝 Add your latest posts here (Dev.to / Medium / Hashnode) — this section can auto-update via the `gautamkrishnar/blog-post-workflow` GitHub Action.
-<!--BLOG-POST-LIST:END-->
+- 🥇 **Team Lead & Grand Finalist** — Smart India Hackathon 2024; led a team building solutions under national-level competition pressure
+- 🥈 **Silver Medalist** — B.Tech CSE, Maharashtra Institute of Technology, Chh. Sambhajinagar
 
 ---
 
@@ -311,15 +258,7 @@ Deep learning solution using ResNet-50 transfer learning to identify and recomme
 
 ---
 
-## 💡 Fun Facts
-
-- ☕ Fueled by coffee and Terraform plan diffs.
-- 🐍 Believes every incident postmortem should end with an automation ticket.
-- 🎯 Favorite stack combo: **Terraform + EKS + ArgoCD**.
-
 <div align="center">
-
-### "Infrastructure should be boring, predictable, and invisible — until it saves the day."
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreey07m&theme=github_dark" />
 
@@ -327,7 +266,7 @@ Deep learning solution using ResNet-50 transfer learning to identify and recomme
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" />
 
-**Built with ❤️ and a lot of `terraform apply`**
+**Thanks for stopping by — always open to connecting on cloud & DevOps work.**
 
 [⬆ Back to Top](#)
 
