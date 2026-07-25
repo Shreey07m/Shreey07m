@@ -51,20 +51,14 @@
 
 ### GitHub Analytics
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreey07m&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Shreey07m&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreey07m&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreey07m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreey07m&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreey07m&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
 
 ---
 
