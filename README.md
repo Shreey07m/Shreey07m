@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/shreeya-maliye-81a20723b"><img src="https://img.shields.io/badge/Open%20To%20Work-Yes-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/></a>
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/>
   <img src="https://img.shields.io/badge/SIH%202024-Grand%20Finalist-8B5CF6?style=for-the-badge" alt="SIH 2024"/>
-  <img src="https://img.shields.io/badge/Mumbai%2C%20India-Location-64748B?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/India-Location-64748B?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
