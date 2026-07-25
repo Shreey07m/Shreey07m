@@ -25,46 +25,9 @@
 
 ### About Me
 
-Cloud & DevOps Engineer with **1+ year of production experience** designing cloud-native infrastructure, CI/CD pipelines, and observability stacks on **AWS**. Currently at **Arthan Finance**, where I automate deployments, manage production services, and improve platform reliability.
+- Cloud & DevOps Engineer with **1+ year of production experience** designing cloud-native infrastructure, CI/CD pipelines, and observability stacks on **AWS**. Currently at **Arthan Finance**, where I automate deployments, manage production services, and improve platform reliability.
 
-**Impact at a glance**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployments-40%25%20Faster-3B82F6?style=for-the-badge" alt="Deployments"/>
-  <img src="https://img.shields.io/badge/MTTD-15min%20→%20%3C3min-06B6D4?style=for-the-badge" alt="MTTD"/>
-  <img src="https://img.shields.io/badge/Production%20Services-10%2B-8B5CF6?style=for-the-badge" alt="Services"/>
-  <img src="https://img.shields.io/badge/CGPA-9.35%2F10-22C55E?style=for-the-badge" alt="CGPA"/>
-</p>
-
-Previously an **R&D Intern at EduDiagno**, where I shipped a production job portal on AWS and an ML recommendation engine that improved job-match relevance by **30%**. **AWS Certified Cloud Practitioner** · **Smart India Hackathon 2024 Grand Finalist**.
-
----
-
-### Featured Projects
-
-**[`Automated DevOps Pipeline`](https://github.com/Shreey07m/Automated-DevOps-Pipeline-using-GitLab-CI-CD-and-Kubernetes)**  
-End-to-end CI/CD with staging/prod environments, health checks, rollback, and full observability.  
-`GitLab` `Docker` `EKS` `Prometheus` `Grafana`
-
-**[`AWS EKS Cluster Automation`](https://github.com/Shreey07m/AWS-EKS-Cluster-Automation-using-Terraform)**  
-Modular IaC for HA VPC, IAM, managed node groups, and Kubernetes application deployment.  
-`Terraform` `AWS` `Kubernetes`
-
-**[`AWS 3-Tier Architecture`](https://github.com/Shreey07m/3-Tier-Architecture-)**  
-Scalable web application with ALB, Auto Scaling, and RDS across isolated subnets.  
-`AWS` `EC2` `RDS` `VPC`
-
-**[`Terraform Infrastructure`](https://github.com/Shreey07m/aws-terraform-infrastructure)**  
-Reusable, modular cloud provisioning following Infrastructure as Code best practices.  
-`Terraform` `AWS` `Linux`
-
-**[`Image Quality Assessment`](https://github.com/Shreey07m/Image-Quality-Assessment)**  
-ResNet-50 ML pipeline for storage optimization with **82% accuracy** and a Streamlit UI.  
-`Python` `TensorFlow` `Streamlit`
-
-<p align="center">
-  👉 <a href="https://shreeya-maliye-portfolio.vercel.app"><b>View full portfolio →</b></a>
-</p>
+- Previously an **R&D Intern at EduDiagno**, where I shipped a production job portal on AWS and an ML recommendation engine that improved job-match relevance by **30%**. **AWS Certified Cloud Practitioner** · **Smart India Hackathon 2024 Grand Finalist**.
 
 ---
 
