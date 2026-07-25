@@ -35,19 +35,17 @@
 
 ## 🧭 About Me
 
-- 🚀 **Cloud & DevOps Engineer** at **Arthan Finance Pvt. Ltd.**, with 1 year of production experience automating CI/CD and AWS infrastructure.
-- 🏗️ Architected enterprise-grade **GitLab CI/CD pipelines** for Tomcat, Dockerized, and microservice apps across Dev, UAT, and Production — cutting deployment time by **~40%**.
-- 🔭 Built a centralized **observability platform** (Prometheus, Grafana, Loki, Alertmanager, CloudWatch) that reduced **MTTD from ~15 minutes to under 3 minutes**.
-- 🔐 Design secure AWS infrastructure — VPC, IAM, Security Groups, ALB, Nginx blue-green deployments — enabling **zero-downtime releases** with automated rollback.
-- ☁️ Hands-on with **AWS (EC2, ECS, EKS, S3, RDS, Lambda, API Gateway, DynamoDB, CloudWatch)**, Docker, Kubernetes, and Terraform.
-- 🎓 B.Tech in Computer Science Engineering, CGPA 9.35/10 — Maharashtra Institute of Technology, Chh. Sambhajinagar.
-- 🏆 Team Lead & Grand Finalist, **Smart India Hackathon 2024**.
-- 📍 Based in Maharashtra, India.
+Hey, I'm Shreeya 👋 — a **Cloud & DevOps Engineer** based in Maharashtra, India, currently building infrastructure at **Arthan Finance**.
+
+I spend my days turning manual, fragile deployments into automated, observable systems — GitLab pipelines that ship safely, AWS infra that's secure by default, and dashboards that tell you something's wrong before your users do. Along the way that's meant cutting deployment time by **~40%** and getting incident detection down from **15 minutes to under 3**.
+
+Before this, I was building an ML-powered job portal at EduDiagno, which is where I first fell in love with the "build it, break it, automate the fix" loop that DevOps runs on.
+
+🎓 B.Tech CSE (CGPA 9.35/10) · 🏆 Grand Finalist, Smart India Hackathon 2024 · ☁️ AWS Certified Cloud Practitioner
 
 ---
 
-## 🧰 Tech Stack
-<sub>Skills as listed on my resume</sub>
+## 🧰 Tools I Work With
 
 <table width="100%">
 <tr>
@@ -207,43 +205,36 @@ AWS 3-Tier web architecture implementation separating presentation, application,
 
 ---
 
-## 🧗 Professional Experience
+## 🧗 Where I've Worked
 
-### ☁️ Cloud & DevOps Engineer — Arthan Finance Pvt. Ltd. | *Aug 2025 – Present*
-`GitLab CI/CD` `Docker` `AWS EC2/ECS` `Terraform` `CloudWatch` `Prometheus` `Grafana` `Loki` `Alertmanager` `Nginx` `Linux` `Shell Scripting`
+```
+2025 ─Present─▶  ☁️  Cloud & DevOps Engineer @ Arthan Finance
+                    Pipelines, AWS infra, and observability for 10+ production apps
 
-- Architected enterprise-grade GitLab CI/CD pipelines for Tomcat, Dockerized, and microservice applications across Development, UAT, and Production, **reducing deployment time by ~40%**.
-- Managed production deployments for **10+ applications** on AWS, troubleshooting Linux, Docker, networking, and GitLab Runner issues to improve deployment reliability.
-- Built a centralized observability platform using Prometheus, Grafana, Loki, Alertmanager, and AWS CloudWatch, **reducing MTTD from ~15 minutes to under 3 minutes**.
-- Designed secure AWS infrastructure with VPC, IAM, Security Groups, ALB, and Nginx-based blue-green deployments, enabling zero-downtime releases and automated rollback.
+2024 ──Jun'25──▶  🧪  R&D Intern @ EduDiagno
+                    Shipped a React + AWS job portal, built an ML recommendation engine
+```
 
-### 🧪 R&D Intern — EduDiagno Pvt. Ltd. | *Dec 2024 – Jun 2025*
-`Python` `Machine Learning` `React.js` `AWS EC2` `S3` `Tailwind CSS`
+**At Arthan Finance**, I own the path from commit to production — GitLab CI/CD pipelines across Dev/UAT/Prod (`~40%` faster deploys), an AWS setup built on VPC/IAM/ALB with zero-downtime blue-green releases, and a Prometheus + Grafana + Loki + Alertmanager stack that dropped our MTTD from `~15 min` to `<3 min`.
 
-- Developed and deployed a production-grade Job Portal using React.js, Tailwind CSS, and AWS, serving **1,000+ users** with a responsive, cross-browser compatible interface.
-- Built an ML-based Job Recommendation Engine using Python and Collaborative Filtering, **improving job-match relevance by ~30%**.
-- Deployed the application on AWS using EC2 and S3, performing end-to-end functional and regression testing.
+**At EduDiagno**, I built and deployed a job portal (React, Tailwind, AWS) used by **1,000+ users**, plus a collaborative-filtering recommendation engine that improved job-match relevance by **~30%**.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Certs
 
 <p>
   <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity%20Level--1-Sedulity-4B0082?style=for-the-badge&logo=cyberdefenders&logoColor=white" />
 </p>
 
-- 🎓 **B.Tech in Computer Science Engineering** — CGPA 9.35/10
-- 🎓 **Honors Degree in Cloud Computing** — Grade A
-- 📜 **AWS Certified Cloud Practitioner** (Feb 2026)
-- 📜 **Cybersecurity Level-1**, Sedulity (Dec 2023)
+B.Tech in Computer Science Engineering (CGPA 9.35/10) with an Honors Degree in Cloud Computing, both from Maharashtra Institute of Technology, Chh. Sambhajinagar.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Team Lead & Grand Finalist** — Smart India Hackathon 2024; led a team building solutions under national-level competition pressure
-- 🥈 **Silver Medalist** — B.Tech CSE, Maharashtra Institute of Technology, Chh. Sambhajinagar
+🥇 Team Lead & Grand Finalist, **Smart India Hackathon 2024** &nbsp;·&nbsp; 🥈 Silver Medalist, B.Tech CSE
 
 ---
 
