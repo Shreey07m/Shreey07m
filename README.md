@@ -61,10 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreey07m&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreey07m&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
 ---
 
 ### Certifications & Recognition
