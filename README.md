@@ -1,45 +1,117 @@
-<div align="center">
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=180&section=header&text=Shreeya%20Maliye&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreeya+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
-
-<p>
-  <a href="https://shreeya-maliye-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shreeya-maliye-81a20723b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shreeyamaliye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Shreey07m&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreeya-maliye-81a20723b"><img src="https://img.shields.io/badge/Open%20To%20Work-Yes-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/></a>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/>
+  <img src="https://img.shields.io/badge/SIH%202024-Grand%20Finalist-8B5CF6?style=for-the-badge" alt="SIH 2024"/>
+  <img src="https://img.shields.io/badge/Mumbai%2C%20India-Location-64748B?style=for-the-badge" alt="Location"/>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://shreeya-maliye-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0E16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shreeya-maliye-81a20723b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shreeyamaliye@gmail.com"><img src="https://img.shields.io/badge/Email-shreeyamaliye%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Shreey07m"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-I'm a Cloud & DevOps Engineer based in Maharashtra, India, currently working at **Arthan Finance**, where I build GitLab CI/CD pipelines and AWS infrastructure for production apps — the kind of work that took our deployment time down by ~40% and cut incident detection from 15 minutes to under 3. Before that, I was an R&D intern at EduDiagno, shipping a job portal and an ML recommendation engine. I'm a B.Tech CSE grad (CGPA 9.35/10), AWS Certified Cloud Practitioner, and a Grand Finalist at Smart India Hackathon 2024. Always happy to talk infra, pipelines, or Kubernetes war stories 🚀
+<!-- Typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%40+Arthan+Finance;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitLab+CI%2FCD;Building+scalable%2C+observable+production+systems" alt="Typing SVG"/>
+</p>
 
-### ⚙️ Tools I work with
+---
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| ![AWS](https://skillicons.dev/icons?i=aws) <br> AWS | ![Terraform](https://skillicons.dev/icons?i=terraform) <br> Terraform | ![Docker](https://skillicons.dev/icons?i=docker) <br> Docker | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) <br> Kubernetes | ![GitLab](https://skillicons.dev/icons?i=gitlab) <br> GitLab CI/CD |
-| ![Prometheus](https://img.shields.io/badge/-E6522C?style=flat-square&logo=prometheus&logoColor=white) <br> Prometheus | ![Grafana](https://skillicons.dev/icons?i=grafana) <br> Grafana | ![Nginx](https://skillicons.dev/icons?i=nginx) <br> Nginx | ![Linux](https://skillicons.dev/icons?i=linux) <br> Linux | ![Python](https://skillicons.dev/icons?i=python) <br> Python |
+### About Me
 
-### 📊 GitHub stats
+Cloud & DevOps Engineer with **1+ year of production experience** designing cloud-native infrastructure, CI/CD pipelines, and observability stacks on **AWS**. Currently at **Arthan Finance**, where I automate deployments, manage production services, and improve platform reliability.
 
-<div align="center">
+**Impact at a glance**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreey07m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F9A03C&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreey07m&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F9A03C" />
+| Metric | Result |
+|--------|--------|
+| Deployment time | **↓ 40%** via CI/CD automation |
+| Mean time to detect (MTTD) | **15 min → &lt; 3 min** with Prometheus & Grafana |
+| Production services | **10+** managed on AWS |
+| Academic CGPA | **9.35 / 10** — B.Tech CSE (Cloud Computing Honors) |
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreey07m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=F9A03C&point=ffffff" />
+Previously an **R&D Intern at EduDiagno**, where I shipped a production job portal on AWS and an ML recommendation engine that improved job-match relevance by **30%**. **AWS Certified Cloud Practitioner** · **Smart India Hackathon 2024 Grand Finalist**.
 
-</div>
+---
 
-### 📌 Some things I've built
+### Featured Projects
 
-- **[Automated DevOps Pipeline (GitLab + AWS EKS)](https://github.com/Shreey07m/Automated-DevOps-Pipeline-using-GitLab-CI-CD-and-Kubernetes)** — CI/CD pipeline that builds, tests, and ships a Dockerized Flask app to Kubernetes on every commit, with Prometheus/Grafana monitoring baked in.
-- **[AWS EKS Cluster Automation (Terraform)](https://github.com/Shreey07m/AWS-EKS-Cluster-Automation-using-Terraform)** — Modular IaC that stands up a production-ready, highly available EKS cluster from scratch.
-- **[Image Quality Assessment](https://github.com/Shreey07m/Image-Quality-Assessment)** — ResNet-50 based ML model that picks the best-quality image out of a set of near-duplicates.
-- **[3-Tier Architecture on AWS](https://github.com/Shreey07m/3-Tier-Architecture-)** — A classic 3-tier web architecture, deployed on AWS.
+| Project | What it demonstrates | Stack |
+|---------|---------------------|-------|
+| [**Automated DevOps Pipeline**](https://github.com/Shreey07m/Automated-DevOps-Pipeline-using-GitLab-CI-CD-and-Kubernetes) | End-to-end CI/CD with staging/prod, health checks, rollback & observability | GitLab · Docker · EKS · Prometheus · Grafana |
+| [**AWS EKS Cluster Automation**](https://github.com/Shreey07m/AWS-EKS-Cluster-Automation-using-Terraform) | Modular IaC for HA VPC, IAM, managed node groups & K8s deployment | Terraform · AWS · Kubernetes |
+| [**AWS 3-Tier Architecture**](https://github.com/Shreey07m/3-Tier-Architecture-) | Scalable web app with ALB, Auto Scaling & RDS in isolated subnets | AWS · EC2 · RDS · VPC |
+| [**Terraform Infrastructure**](https://github.com/Shreey07m/aws-terraform-infrastructure) | Reusable, modular cloud provisioning with IaC best practices | Terraform · AWS · Linux |
+| [**Image Quality Assessment**](https://github.com/Shreey07m/Image-Quality-Assessment) | ML pipeline (ResNet-50) for storage optimization — **82% accuracy** | Python · TensorFlow · Streamlit |
 
-<div align="center">
+👉 **Full portfolio:** [shreeya-maliye-portfolio.vercel.app](https://shreeya-maliye-portfolio.vercel.app)
 
-📫 Reach me at **shreeyamaliye@gmail.com** — always open to a chat about cloud & DevOps.
+---
 
-</div>
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,linux,python,nginx" alt="Core stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
+  <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat-square&logo=sonarcloud&logoColor=white" alt="SonarCloud"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/>
+</p>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreey07m&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreey07m&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreey07m&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreey07m&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+### Certifications & Recognition
+
+| Credential | Issuer |
+|------------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services |
+| Cybersecurity Level-1 | Certified Professional |
+| Smart India Hackathon 2024 — Grand Finalist | Govt. of India |
+| B.Tech CSE Silver Medalist | MIT, Chh. Sambhajinagar |
+
+---
+
+### Let's Connect
+
+I'm open to **Cloud Engineer**, **DevOps Engineer**, and **Platform Engineer** roles.
+
+<p align="center">
+  <a href="mailto:shreeyamaliye@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-shreeyamaliye@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+</p>
+
+<p align="center">
+  <i>Always happy to discuss infrastructure, CI/CD pipelines, Kubernetes, or observability.</i>
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=100&section=footer" width="100%"/>
