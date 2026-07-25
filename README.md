@@ -29,12 +29,12 @@ Cloud & DevOps Engineer with **1+ year of production experience** designing clou
 
 **Impact at a glance**
 
-| Metric | Result |
-|--------|--------|
-| Deployment time | **↓ 40%** via CI/CD automation |
-| Mean time to detect (MTTD) | **15 min → &lt; 3 min** with Prometheus & Grafana |
-| Production services | **10+** managed on AWS |
-| Academic CGPA | **9.35 / 10** — B.Tech CSE (Cloud Computing Honors) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployments-40%25%20Faster-3B82F6?style=for-the-badge" alt="Deployments"/>
+  <img src="https://img.shields.io/badge/MTTD-15min%20→%20%3C3min-06B6D4?style=for-the-badge" alt="MTTD"/>
+  <img src="https://img.shields.io/badge/Production%20Services-10%2B-8B5CF6?style=for-the-badge" alt="Services"/>
+  <img src="https://img.shields.io/badge/CGPA-9.35%2F10-22C55E?style=for-the-badge" alt="CGPA"/>
+</p>
 
 Previously an **R&D Intern at EduDiagno**, where I shipped a production job portal on AWS and an ML recommendation engine that improved job-match relevance by **30%**. **AWS Certified Cloud Practitioner** · **Smart India Hackathon 2024 Grand Finalist**.
 
@@ -42,15 +42,29 @@ Previously an **R&D Intern at EduDiagno**, where I shipped a production job port
 
 ### Featured Projects
 
-| Project | What it demonstrates | Stack |
-|---------|---------------------|-------|
-| [**Automated DevOps Pipeline**](https://github.com/Shreey07m/Automated-DevOps-Pipeline-using-GitLab-CI-CD-and-Kubernetes) | End-to-end CI/CD with staging/prod, health checks, rollback & observability | GitLab · Docker · EKS · Prometheus · Grafana |
-| [**AWS EKS Cluster Automation**](https://github.com/Shreey07m/AWS-EKS-Cluster-Automation-using-Terraform) | Modular IaC for HA VPC, IAM, managed node groups & K8s deployment | Terraform · AWS · Kubernetes |
-| [**AWS 3-Tier Architecture**](https://github.com/Shreey07m/3-Tier-Architecture-) | Scalable web app with ALB, Auto Scaling & RDS in isolated subnets | AWS · EC2 · RDS · VPC |
-| [**Terraform Infrastructure**](https://github.com/Shreey07m/aws-terraform-infrastructure) | Reusable, modular cloud provisioning with IaC best practices | Terraform · AWS · Linux |
-| [**Image Quality Assessment**](https://github.com/Shreey07m/Image-Quality-Assessment) | ML pipeline (ResNet-50) for storage optimization — **82% accuracy** | Python · TensorFlow · Streamlit |
+**[`Automated DevOps Pipeline`](https://github.com/Shreey07m/Automated-DevOps-Pipeline-using-GitLab-CI-CD-and-Kubernetes)**  
+End-to-end CI/CD with staging/prod environments, health checks, rollback, and full observability.  
+`GitLab` `Docker` `EKS` `Prometheus` `Grafana`
 
-👉 **Full portfolio:** [shreeya-maliye-portfolio.vercel.app](https://shreeya-maliye-portfolio.vercel.app)
+**[`AWS EKS Cluster Automation`](https://github.com/Shreey07m/AWS-EKS-Cluster-Automation-using-Terraform)**  
+Modular IaC for HA VPC, IAM, managed node groups, and Kubernetes application deployment.  
+`Terraform` `AWS` `Kubernetes`
+
+**[`AWS 3-Tier Architecture`](https://github.com/Shreey07m/3-Tier-Architecture-)**  
+Scalable web application with ALB, Auto Scaling, and RDS across isolated subnets.  
+`AWS` `EC2` `RDS` `VPC`
+
+**[`Terraform Infrastructure`](https://github.com/Shreey07m/aws-terraform-infrastructure)**  
+Reusable, modular cloud provisioning following Infrastructure as Code best practices.  
+`Terraform` `AWS` `Linux`
+
+**[`Image Quality Assessment`](https://github.com/Shreey07m/Image-Quality-Assessment)**  
+ResNet-50 ML pipeline for storage optimization with **82% accuracy** and a Streamlit UI.  
+`Python` `TensorFlow` `Streamlit`
+
+<p align="center">
+  👉 <a href="https://shreeya-maliye-portfolio.vercel.app"><b>View full portfolio →</b></a>
+</p>
 
 ---
 
@@ -92,12 +106,15 @@ Previously an **R&D Intern at EduDiagno**, where I shipped a production job port
 
 ### Certifications & Recognition
 
-| Credential | Issuer |
-|------------|--------|
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| Cybersecurity Level-1 | Certified Professional |
-| Smart India Hackathon 2024 — Grand Finalist | Govt. of India |
-| B.Tech CSE Silver Medalist | MIT, Chh. Sambhajinagar |
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Level--1-DC2626?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202024-Grand%20Finalist-8B5CF6?style=for-the-badge" alt="SIH 2024"/>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-Silver%20Medalist-3B82F6?style=for-the-badge" alt="Silver Medalist"/>
+</p>
 
 ---
 
