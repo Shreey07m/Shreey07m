@@ -1,5 +1,5 @@
 <!-- Premium Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shreeya%20Maliye&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:2563EB,100:06B6D4&height=220&section=header&text=Shreeya%20Maliye&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Badges -->
 <p align="center">
